@@ -1,0 +1,12 @@
+
+RAILWAY DATA ANALYSIS REPORT
+----------------------------
+KEY INSIGHTS:
+
+1. Major source and destination stations handle the bulk of traffic.
+2. Weekdays have higher train operations compared to weekends.
+3. Heatmap shows which routes are heavily used.
+4. Recommendations:
+   - Improve infrastructure at high-traffic stations.
+   - Add more trains during peak weekday demand.
+   - Plan maintenance and upgrades strategically.
